@@ -1,4 +1,4 @@
-# guess-programming-language
+# guess-programming-language [![Build Status](https://semaphoreci.com/api/v1/rafaelrinaldi/guess-programming-language/branches/master/badge.svg)](https://semaphoreci.com/rafaelrinaldi/guess-programming-language)
 
 > Naive programming language guessing built on top of [highlight.js][highlight.js]
 
