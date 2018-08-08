@@ -49,7 +49,7 @@ Value for the programming language to guess.
 
 ## License
 
-MIT © [Rafael Rinaldi](rinaldi.io)
+MIT © [Rafael Rinaldi](https://rinaldi.io)
 
 ---
 
