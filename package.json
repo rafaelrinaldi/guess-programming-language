@@ -1,0 +1,29 @@
+{
+  "name": "guess-programming-language",
+  "version": "1.0.0",
+  "description": "Naive programming language guessing built on top of highlight.js",
+  "license": "MIT",
+  "repository": "github:rafaelrinaldi/guess-programming-language",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.6"
+  },
+  "keywords": [
+    "guess",
+    "programming",
+    "language"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "NODE_ENV=test prettier-standard *.js && jest --env=node --verbose"
+  },
+  "dependencies": {
+    "highlight.js": "^9.12.0"
+  },
+  "devDependencies": {
+    "jest-cli": "^23.4.2",
+    "prettier-standard": "^8.0.1"
+  }
+}
