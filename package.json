@@ -20,7 +20,7 @@
     "test": "NODE_ENV=test prettier-standard *.js && jest --env=node --verbose"
   },
   "dependencies": {
-    "highlight.js": "^9.13.0"
+    "highlight.js": "^9.15.10"
   },
   "devDependencies": {
     "jest-cli": "^23.6.0",
